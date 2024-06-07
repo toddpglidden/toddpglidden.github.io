@@ -1,4 +1,4 @@
 # Todd's Portfolio
 
 ## Neural Networks
-Here is an example of [classificaiton](LogisticRegressionKeras.html) using neural netwoks in Python.
+Here is an example of [classificaiton](test.html) using neural netwoks in Python.
