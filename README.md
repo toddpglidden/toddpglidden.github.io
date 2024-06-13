@@ -5,4 +5,4 @@ An example of [classificaiton](LogisticRegressionKeras.html) using neural netwok
 [Sentiment Analysis](SentimentAnalysis.html) using neural netwoks in Python.
 
 ## Exploratory Data Analysis
-EDA, linear and logistic regression using a fun [candy rankings](candy.html) data set.
+EDA, linear and logistic regression in R using a fun [candy rankings](candy.html) data set.
