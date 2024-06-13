@@ -1,4 +1,4 @@
-# Some examples of my work in data analytics
+# Some examples of what I've learned in data analytics
 
 ## Neural Networks
 An example of [classificaiton](LogisticRegressionKeras.html) using neural netwoks in Python.<br>
