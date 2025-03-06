@@ -12,4 +12,4 @@ An example of [classificaiton](LogisticRegressionKeras.html) using neural netwok
 EDA, linear and logistic regression in R using a fun [candy rankings](candy.html) data set.
 
 ## Python
-Implementing a dice game: [Hacker Statistics](Hacker_Statistics.ipynb)
+Implementing a dice game: [Hacker Statistics](Hacker_Statistics.html)
