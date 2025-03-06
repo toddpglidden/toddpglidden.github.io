@@ -10,3 +10,6 @@ An example of [classificaiton](LogisticRegressionKeras.html) using neural netwok
 
 ## Exploratory Data Analysis
 EDA, linear and logistic regression in R using a fun [candy rankings](candy.html) data set.
+
+## Python
+Implementing a dice game: [Hacker Statistics](Hacker_Statistics.ipynb)
