@@ -13,3 +13,4 @@ EDA, linear and logistic regression in R using a fun [candy rankings](candy.html
 
 ## Python
 Implementing a dice game: [Hacker Statistics](Hacker_Statistics.html)
+Exploring a database of Netflix movies: [Movie Analysis](netflix_movie_analysis.html)
