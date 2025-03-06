@@ -12,5 +12,5 @@ An example of [classificaiton](LogisticRegressionKeras.html) using neural netwok
 EDA, linear and logistic regression in R using a fun [candy rankings](candy.html) data set.
 
 ## Python
-Implementing a dice game: [Hacker Statistics](Hacker_Statistics.html)
+Implementing a dice game: [Hacker Statistics](Hacker_Statistics.html)<br>
 Exploring a database of Netflix movies: [Movie Analysis](netflix_movie_analysis.html)
